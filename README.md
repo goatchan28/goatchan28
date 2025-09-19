@@ -29,18 +29,18 @@ Project website: https://orpheusenvironmental.wixsite.com/home
 ---
 
 ### [Machine Learning Experiments](https://github.com/goatchan28/ml_experiments)
-🧠 Hands-on ML notebooks covering image classification and model training. Includes projects using (TensorFlow, PyTorch, FastAI).
+Hands-on ML notebooks covering image classification and model training. Includes projects using (TensorFlow, PyTorch, FastAI).
 *Focused on building intuition for model training, evaluation, and practical applications of AI.*
 
 ---
 
-## 🌱 Currently Exploring
+## Currently Exploring
 - Integrating hardware and software
 - Learning how to use AI more effectively and leverage it in real-world projects  
 - Exploring different fields to broaden my perspective and grow as a builder   
 
 ---
 
-## 📫 Connect
+## Connect
 - [LinkedIn](www.linkedin.com/in/manas-chan-049508315)  
 - [Email](mc5269@columbia.edu)  
