@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Manas Chan
 
-Columbia SEAS ‘29 student planning to major in computer engineering or financial engineering.  
-Learning by building projects that connect **tech and real-world problems**.  
-Excited about using code to create tools that make a genuine impact on people's lives and help them achieve their goals.
+- Columbia SEAS ‘29 student planning to major in computer engineering or financial engineering.  
+- Learning by building projects that connect **tech and real-world problems**.  
+- Excited about using code to create tools that make a genuine impact on people's lives and help them achieve their goals.
 
 ---
 
