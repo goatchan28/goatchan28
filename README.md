@@ -41,5 +41,5 @@ Hands-on ML notebooks covering image classification and model training with Tens
 ---
 
 ## Connect
-- [LinkedIn](www.linkedin.com/in/manas-chan-049508315)  
-- [Email](mc5269@columbia.edu)  
+- [LinkedIn](https://www.linkedin.com/in/manas-chan-049508315)  
+- [Email](mailto:mc5269@columbia.edu)  
