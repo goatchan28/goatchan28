@@ -10,7 +10,7 @@ Excited about using code to create tools that make a genuine impact on people's 
 
 ### [Petrition](https://github.com/goatchan28/pet_health_ai)
 Full stack pet health tracking app that helps owners monitor their dog's meals, exercise, and nutrition.
-\n*Flutter + Firebase backend with barcode scanning and AI label recognition through API calls, beta-tested on TestFlight.*
+*Flutter + Firebase backend with barcode scanning and AI label recognition through API calls, beta-tested on TestFlight.*
 
 ---
 
