@@ -23,13 +23,12 @@ Current project — an app to help high-school students applying to colleges.
 
 ### [Conrad Challenge Project](https://github.com/goatchan28/conrad_challenge)
 Competition entry blending AI and entrepreneurship to tackle global environmental problems.  
-Project website: https://orpheusenvironmental.wixsite.com/home
-*Includes team website and prototype optimization code.*
+*Includes team website, product design docs, and prototype optimization code — [Project Website](https://orpheusenvironmental.wixsite.com/home).*
 
 ---
 
 ### [Machine Learning Experiments](https://github.com/goatchan28/ml_experiments)
-Hands-on ML notebooks covering image classification and model training. Includes projects using (TensorFlow, PyTorch, FastAI).
+Hands-on ML notebooks covering image classification and model training with TensorFlow, PyTorch, and FastAI.  
 *Focused on building intuition for model training, evaluation, and practical applications of AI.*
 
 ---
