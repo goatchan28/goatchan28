@@ -8,7 +8,7 @@
 
 ## 📌 Selected Projects
 
-### [Petrition](https://github.com/goatchan28/pet_health_ai)
+### [Furiva](https://github.com/goatchan28/pet_health_ai)
 Full stack pet health tracking app that helps owners monitor their dog's meals, exercise, and nutrition.  
 *Flutter + Firebase backend with barcode scanning and AI label recognition through API calls, beta-tested on TestFlight.*
 
@@ -29,8 +29,8 @@ Project website: https://orpheusenvironmental.wixsite.com/home
 ---
 
 ### [Machine Learning Experiments](https://github.com/goatchan28/ml_experiments)
-🧠 Collection of experiments: regression, classification, and early CV projects.  
-*Focused on learning core ML workflows and model evaluation.*
+🧠 Hands-on ML notebooks covering image classification and model training. Includes projects using (TensorFlow, PyTorch, FastAI).
+*Focused on building intuition for model training, evaluation, and practical applications of AI.*
 
 ---
 
