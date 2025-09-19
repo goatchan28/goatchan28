@@ -23,7 +23,7 @@ Current project — an app to help high-school students applying to colleges.
 
 ### [Conrad Challenge Project](https://github.com/goatchan28/conrad_challenge)
 Competition entry blending AI and entrepreneurship to tackle global environmental problems.  
-*Includes team website, product design docs, and prototype optimization code — <a href="https://orpheusenvironmental.wixsite.com/home" target="_blank">Project Website</a>.*
+*Includes team website, product design docs, and prototype optimization code — [Project Website ↗](https://orpheusenvironmental.wixsite.com/home).*
 
 ---
 
