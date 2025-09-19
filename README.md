@@ -28,7 +28,7 @@ Project website: https://orpheusenvironmental.wixsite.com/home
 
 ---
 
-### [Machine Learning Experiments](https://github.com/goatchan28/ml-experiments)
+### [Machine Learning Experiments](https://github.com/goatchan28/ml_experiments)
 🧠 Collection of experiments: regression, classification, and early CV projects.  
 *Focused on learning core ML workflows and model evaluation.*
 
