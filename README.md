@@ -16,7 +16,7 @@ Full stack pet health tracking app that helps owners monitor their dog's meals, 
 
 ### Gmail Organizer (Private Repo)
 Current project — an app to help high-school students applying to colleges.  
-*Built with React, Tailwind, and Firebase.*  
+*Building with React, Tailwind, and Firebase.*  
 ➡️ Private repo (reach out if you’d like to learn more).
 
 ---
