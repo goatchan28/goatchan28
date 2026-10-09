@@ -4,7 +4,7 @@
 - Really interested in learning about agentic AI and integrating it into daily life
 - Outside of research, I enjoy building projects, from iOS apps to AI agents to computer vision and robotics systems
 
-Enjoys flying drones, boxing, triathlons, reading memoirs, and poker during free time
+I also fly drones, compete in triathlons, love reading memoirs, box, and play poker during my free time
 
 Links
 - [MakeCU Hardware Hackathon Google It](https://devpost.com/software/google-it-9y6lre)
