@@ -8,7 +8,5 @@ I also fly drones, compete in triathlons, love reading memoirs, box, and play po
 
 Links
 - [MakeCU Hardware Hackathon Google It](https://devpost.com/software/google-it-9y6lre)
-- [Orpheus Environmental](https://orpheusenvironmental.wixsite.com/home)
+- [Orpheus Environmental Entrepreneurship Competition](https://orpheusenvironmental.wixsite.com/home)
 - [Knocknock](https://www.knocknock.cc)
-
-[Email](mailto:mc5269@columbia.edu)
