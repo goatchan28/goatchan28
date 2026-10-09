@@ -1,6 +1,4 @@
-# Manas Chan
-
-Computer Engineering @ Columbia University (SEAS '29) | Philosophy Minor
+# Computer Engineering @ Columbia University (SEAS '29) | Philosophy Minor
 
 - Currently doing research at Columbia on AI agents for automating 3D mesh generation and geometric modeling.
 - Really interested in learning about agentic AI and integrating it into daily life
