@@ -1,45 +1,11 @@
-# 👋 Hi, I’m Manas Chan
+# Hi, I'm Manas 👋
 
-- Columbia SEAS ‘29 student planning to major in computer engineering or financial engineering.  
-- Learning by building projects that connect **tech and real-world problems**.  
-- Excited about using code to create tools that make a genuine impact on people's lives and help them achieve their goals.
+I'm a Computer Engineering student at Columbia University (SEAS '29) minoring in Philosophy, interested in agentic AI, software engineering, and building technology that solves real-world problems.
 
----
+Currently conducting AI research at Columbia, developing agents to automate 3D mesh generation and geometric modeling.
 
-## 📌 Selected Projects
+Outside of research, I enjoy hackathons and building projects, from consumer-facing applications to computer vision and robotics systems.
 
-### [Furiva](https://github.com/goatchan28/pet_health_ai)
-Full stack pet health tracking app that helps owners monitor their dog's meals, exercise, and nutrition.  
-*Flutter + Firebase backend with barcode scanning and AI label recognition through API calls, beta-tested on TestFlight.*
-
----
-
-### Gmail Organizer (Private Repo)
-Current project — an app to help high-school students applying to colleges.  
-*Building with React, Tailwind, and Firebase.*  
-➡️ Private repo (reach out if you’d like to learn more).
-
----
-
-### [Conrad Challenge Project](https://github.com/goatchan28/conrad_challenge)
-Competition entry blending AI and entrepreneurship to tackle global environmental problems.  
-*Includes team website, product design docs, and prototype optimization code — [Project Website ↗](https://orpheusenvironmental.wixsite.com/home).*
-
----
-
-### [Machine Learning Experiments](https://github.com/goatchan28/ml_experiments)
-Hands-on ML notebooks covering image classification and model training with TensorFlow, PyTorch, and FastAI.  
-*Focused on building intuition for model training, evaluation, and practical applications of AI.*
-
----
-
-## Currently Exploring
-- Integrating hardware and software
-- Learning how to use AI more effectively and leverage it in real-world projects  
-- Exploring different fields to broaden my perspective and grow as a builder   
-
----
-
-## Connect
-- [LinkedIn](https://www.linkedin.com/in/manas-chan-049508315)  
-- [Email](mailto:mc5269@columbia.edu)  
+### Connect
+- [LinkedIn](https://www.linkedin.com/in/manas-chan-049508315)
+- [Email](mailto:mc5269@columbia.edu)
