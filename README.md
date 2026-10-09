@@ -1,6 +1,4 @@
-# Hi, I'm Manas 👋
-
-I'm a Computer Engineering student at Columbia University (SEAS '29) minoring in Philosophy, interested in agentic AI, software engineering, and building technology that solves real-world problems.
+I'm Manas, a Computer Engineering student at Columbia University (SEAS '29) minoring in Philosophy, interested in agentic AI, software engineering, and building technology that solves real-world problems.
 
 Currently conducting AI research at Columbia, developing agents to automate 3D mesh generation and geometric modeling.
 
