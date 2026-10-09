@@ -1,11 +1,9 @@
-### Who am I
+# Manas Chan
 
-I'm Manas, a Computer Engineering student at Columbia University (SEAS '29) minoring in Philosophy, interested in agentic AI, software engineering, and building technology that solves real-world problems.
+Computer Engineering @ Columbia University (SEAS '29) | Philosophy Minor
 
-Currently conducting AI research at Columbia, developing agents to automate 3D mesh generation and geometric modeling.
+- Currently doing research at Columbia on AI agents for automating 3D mesh generation and geometric modeling.
+- Really interested in learning about agentic AI and integrating it into daily life
+- Outside of research, I enjoy building projects, from iOS apps to AI agents to computer vision and robotics systems
 
-Outside of research, I enjoy hackathons and building projects, from consumer-facing applications to computer vision and robotics systems.
-
-### Connect
-- [LinkedIn](https://www.linkedin.com/in/manas-chan-049508315)
-- [Email](mailto:mc5269@columbia.edu)
+[LinkedIn](https://www.linkedin.com/in/manas-chan-049508315) | [Email](mailto:mc5269@columbia.edu)
