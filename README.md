@@ -11,4 +11,4 @@ Links
 - [Orpheus Environmental](https://orpheusenvironmental.wixsite.com/home)
 - [Knocknock](https://www.knocknock.cc)
 
-[LinkedIn](https://www.linkedin.com/in/manas-chan-049508315) | [Email](mailto:mc5269@columbia.edu)
+[Email](mailto:mc5269@columbia.edu)
